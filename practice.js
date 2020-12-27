@@ -119,7 +119,7 @@ const fizzBuzzV2 = map(n => {
     }
 }, wholes)
 
-// Reduce
+// 3. Reduce
 // The reduce function is the odd one of the bunch.Unlike filter and map, which each take an array and return another array, 
 // reduce takes in an array and returns a single value - in other words, it "reduces" an array to a single value.
 
